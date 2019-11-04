@@ -15,3 +15,4 @@ public class ExampleUnitTest {
 		assertEquals(4, 2 + 2);
 	}
 }
+© 2019 GitHub, Inc.
